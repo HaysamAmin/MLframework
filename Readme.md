@@ -1,5 +1,9 @@
-"This central repository is where all lab submissions, such as Lab 1 and Lab 2, will be stored.
-
+#---------------------------------------------------------------------------------------------------# 
+#   This is a central repository that contains all lab submissions, including Lab                   #
+#---------------------------------------------------------------------------------------------------#
 Student ID: 8953681
 Student Name: Haysam Elamin
 Course: PROG8245 - Machine Learning Framework"
+#----------------------------------------------------------------------------------------------------#
+#  Link for HTML version: https://haysamamin.github.io/MLframework/                                    
+#----------------------------------------------------------------------------------------------------#
