@@ -4,7 +4,7 @@
 
 #Student ID: 8953681
 #Student Name: Haysam Elamin
-#Course: PROG8245 - Machine Learning Framework"
+#Course: CSCN8000 - Artificial Intelligence Algorithms and Mathematics
 #----------------------------------------------------------------------------------------------------#
 #  Link for HTML version: https://haysamamin.github.io/MLframework/                                    
 #----------------------------------------------------------------------------------------------------#
