@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# VS Code and PyCharm IDE settings
+.vscode/
+.idea/
+
+# Data files (optional, if too large or sensitive)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.db
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+
+# System-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment variables or secret configs
+.env
+.env.*
+
+# Compiled files or output folders
+build/
+dist/
+*.egg-info/
